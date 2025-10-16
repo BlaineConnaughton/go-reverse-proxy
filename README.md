@@ -2,6 +2,8 @@
 
 A simple configuration-driven reverse proxy written in Go.
 
+Using this as a testing ground for AI driven CI/CD
+
 It has zero dependencies outside of the Go standard library.
 
 ## Configuration
